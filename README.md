@@ -5,7 +5,6 @@
 # 프로젝트 상세내용
 
 ## 주제
-
 ```
 * IT 스터디 웹 서비스
 ```
@@ -20,5 +19,22 @@
 ```
 
 ## DB TABLE
-<img src="https://user-images.githubusercontent.com/59522336/148393328-bd36c8fd-c096-4b9a-afd1-2cd9fe1998a5.png">
+<img src="https://user-images.githubusercontent.com/59522336/148394448-1a647fcc-ede7-42e9-b86f-5c11987f9afe.png">
+
+## 플로우 차트
+* 게시판
+<img src="https://user-images.githubusercontent.com/59522336/148394611-281bcc0e-1a73-4fdf-b489-b18aaa149b3c.png">
+* 관리자
+<img src="https://user-images.githubusercontent.com/59522336/148394714-8c831235-1094-4434-8eac-9a3c59326359.png">
+
+## 구동 화면
++ Q&A 메인 화면
+<img src="https://user-images.githubusercontent.com/59522336/148395268-c72c768b-737f-44a0-bf5b-cf117cdd0438.png">
+
++ 게시글 쓰기 / 공지사항 쓰기
+<img src="https://user-images.githubusercontent.com/59522336/148395910-99645254-e376-4909-9759-86c8337e7401.png" width="200" height="400">
+<img src="https://user-images.githubusercontent.com/59522336/148395962-26320279-0b7b-4b42-bc1d-266b61788531.png" width="200" height="400">
+
+
+
 

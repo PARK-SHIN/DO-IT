@@ -34,7 +34,7 @@
 + Q&A 메인 화면
 <img src="https://user-images.githubusercontent.com/59522336/148397516-9088011c-30cd-4d64-9744-5c81f9380f0c.png" style="max-width: 100%;">
 
-
+<br><br><br><br><br>
 + 게시글 쓰기 (관리자일때 분류가 없고 공지사항 작성 페이지)
 <img src="https://user-images.githubusercontent.com/59522336/148397924-3b6eb39c-69a8-4767-a522-a7fdbc6143f3.png" style="max-width: 50%;" height="400">
 
